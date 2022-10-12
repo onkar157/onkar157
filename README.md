@@ -3,8 +3,10 @@
 <h1 align="center">Hey Folks 👋, I'm Onkar</h1>
 <h3 align="center">I am Data Science and Machine Learning enthusiast. I am very passionate about tech and love to learn new things.</h3>
 <br/>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+
+## About me:
 <br/>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 -   I’m currently working on **Gold Price Prediction**
 
