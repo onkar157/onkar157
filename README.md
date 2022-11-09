@@ -10,7 +10,7 @@
 
 -   I’m currently working on **Gold Price Prediction**
 
--   I’m currently learning **Regex**
+-   I’m currently learning **AWS**
 
 -   I’m looking for **Opportunity**
 
