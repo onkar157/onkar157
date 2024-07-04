@@ -66,6 +66,8 @@
 <p align="left">
 <a href="https://twitter.com/its_ok____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_ok____" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/onkar-kandar-29a8a31ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkar-kandar-29a8a31ba" height="30" width="40" /></a>
+<br>
+</p>  
 <a href="https://instagram.com/@stelliferous_onkki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@stelliferous_onkki" height="30" width="40" /></a>
 </p>
 <br/>
@@ -75,3 +77,5 @@
     <img src="https://komarev.com/ghpvc/?username=onkar157">
 </a>
 <a href="https://github.com/onkar157?tab=followers"><img src="https://img.shields.io/github/followers/onkar157?label=Followers&style=social" alt="GitHub Badge"></a>
+
+![Onkar Kandar](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
