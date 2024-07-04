@@ -4,6 +4,8 @@
 <h3 align="center">I am Data Science and Machine Learning enthusiast. I am very passionate about tech and love to learn new things.</h3>
 <br/>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+
 ## About me:
 <br/>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -22,6 +24,14 @@
 <br/>
 <br/>
 <br/>
+
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Mongodb](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
 
@@ -58,7 +68,7 @@
   
   <br/>
 
-<a href="https://github.com/onkar157/github-readme-activity-graph"><img alt="onkar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=onkar157&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 
 
@@ -77,5 +87,17 @@
     <img src="https://komarev.com/ghpvc/?username=onkar157">
 </a>
 <a href="https://github.com/onkar157?tab=followers"><img src="https://img.shields.io/github/followers/onkar157?label=Followers&style=social" alt="GitHub Badge"></a>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/6hCRurmcJcOY7KUUDcBHrU?si=c334e4a852bb4b68)
+
+
+
 
 ![Onkar Kandar](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
