@@ -1,6 +1,6 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
+
 <div align="center">
-  <img src="https://github.com/onkar157/onkar157/assets/98203821/efa666c5-d7a9-410d-924d-fe3af1bbaf32" alt="Name">
+  <img src="https://github.com/onkar157/onkar157/assets/98203821/c8ee7197-e947-43b8-8f95-59f2859877e4" alt="Name">
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://linktr.ee/onkarkandar/">
-    <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree"/>
+    <img src="https://img.shields.io/badge/linktree-04444e?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree"/>
   </a>
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -24,48 +24,10 @@
   
 
   <a href="https://chandanck22.vercel.app/">
-    <img src="https://img.shields.io/badge/portfolio-c6e2ff?style=for-the-badge&logo=world" alt="portfolio Badge"/>
+    <img src="https://img.shields.io/badge/portfolio-c67c29?style=for-the-badge&logo=world" alt="portfolio Badge"/>
   </a>
   
 </div>
-
-<br>
-
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-[![](https://img.shields.io/badge/C--A8B9CC?style=for-the-badge&logo=C)](#)
-[![](https://img.shields.io/badge/C++--00599C?style=for-the-badge&logo=C)](#) 
-[![](https://img.shields.io/badge/Python--3776AB?style=for-the-badge&logo=Python)](#) 
-[![](https://img.shields.io/badge/html--E34F26?style=for-the-badge&logo=HTML5)](#) 
-[![](https://img.shields.io/badge/CSS--1572B6?style=for-the-badge&logo=CSS3)](#) 
-
-<p align=center>
-  <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white >
- <img src=https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen >
- <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
- <img src=https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white >
- <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white>
-</p>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Typescript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%#3178C6)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23CC0000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-
-
-
-
-
-
-
 
 
 
@@ -140,17 +102,23 @@
     <img src="https://komarev.com/ghpvc/?username=onkar157">
 </a>
 
-
+<div align="center">
+  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/6hCRurmcJcOY7KUUDcBHrU?si=c334e4a852bb4b68)
 
-
+</div>
 
 
 ![Onkar Kandar](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
