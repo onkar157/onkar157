@@ -34,7 +34,8 @@
 
 <br/>
 <h3 align="center">Hey Folks 👋, I'm Onkar</h1>
-<h3 align="center">I am Data Science and Machine Learning enthusiast. I am very passionate about tech and love to learn new things.</h3>
+<h4 align="center">I am a data scientist with expertise in machine learning, statistical analysis, and data visualization. I enjoy transforming raw data into actionable insights and solving complex problems through data-driven approaches.
+</h4>
 <br/>
 
 
@@ -43,15 +44,14 @@
 <br/>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
--   I’m currently working on **Gold Price Prediction**
+-   Experienced in developing predictive models using Python, Scikit-learn, TensorFlow, and PyTorch.
 
--   I’m currently learning **AWS**
+-   Skilled in using Pandas, NumPy for data manipulation and analysis.
 
--   I’m looking for **Opportunity**
+-   Proficient in creating visualizations with Matplotlib, Seaborn, Plotly, and Tableau.
 
--   I've done 9 months of **Internship**
+-   I am deeply passionate about exploring the cosmos through both astronomy and astrophotography.
 
--   Ask me about **DS,ML**
   
 
 <br/>
