@@ -37,7 +37,7 @@
 <h3 align="center">I am Data Science and Machine Learning enthusiast. I am very passionate about tech and love to learn new things.</h3>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+
 
 ### About me:
 <br/>
@@ -55,16 +55,41 @@
   
 
 <br/>
-<br/>
-<br/>
-
+<br>
+<br>
+<br>
+<div align="center"> 
+  
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
+![](https://img.shields.io/badge/-Sklearn-000?&logo=Sklearn)
+![](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
+![](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
+![](https://img.shields.io/badge/-PowerBi-000?&logo=PowerBi)
+![](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
+![](https://img.shields.io/badge/-FastApi-000?&logo=FastApi)
+![](https://img.shields.io/badge/-Selenium-000?&logo=Selenium)
+![](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+![](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 ![Mongodb](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![](https://img.shields.io/badge/-Git-000?&logo=Git)
+![](https://img.shields.io/badge/-Github-000?&logo=Github)
+![](https://img.shields.io/badge/-Gitlab-000?&logo=Gitlab)
+![](https://img.shields.io/badge/-Canva-000?&logo=Canva)
+![](https://img.shields.io/badge/-Excel-000?&logo=Excel)
+![](https://img.shields.io/badge/-Scipy-000?&logo=Scipy)
+![](https://img.shields.io/badge/-Anaconda-000?&logo=Anaconda)
+![](https://img.shields.io/badge/-JupyterLab-000?&logo=JupyterLab)
+![](https://img.shields.io/badge/-Request-000?&logo=Request)
+![](https://img.shields.io/badge/-Scrapy-000?&logo=Scrapy)
+
+</div>
 
 <div align="center">
   <img src=https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white >
