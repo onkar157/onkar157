@@ -72,7 +72,7 @@
   <img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white >
   <img src=https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white >
   <img src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white >
-  <img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white > 
+<!--   <img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white >  -->
   <img src=https://img.shields.io/badge/Spacy-301037?style=for-the-badge&logo=spacy&logoColor=white > <br>
   <img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white >
   <img src=https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white >
