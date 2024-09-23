@@ -23,7 +23,7 @@
   </a>
   
 
-  <a href="https://chandanck22.vercel.app/">
+  <a href="https://onkarkandar.netlify.app/">
     <img src="https://img.shields.io/badge/portfolio-c67c29?style=for-the-badge&logo=world" alt="portfolio Badge"/>
   </a>
   
