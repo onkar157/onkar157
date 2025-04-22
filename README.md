@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onkar157/onkar157/blob/main/dark_svg.svg">
-  <img alt="Eana Hufwe" src="https://github.com/blueset/blueset/raw/b322cb383b852d7e6609681a8f4bff64932cd96e/EanaHandwritingAnimatedLight.svg">
+  <img alt="Eana Hufwe" src="https://github.com/onkar157/onkar157/blob/main/light_svg.svg">
 </picture>
 
 
