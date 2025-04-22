@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/onkar157/onkar157/blob/main/dark.svg">
-  <img alt="Eana Hufwe" src="https://github.com/onkar157/onkar157/blob/main/light.svg">
-</picture>
-
 
 <div align="center">
   <img src="https://github.com/onkar157/onkar157/assets/98203821/c8ee7197-e947-43b8-8f95-59f2859877e4" alt="Name">
