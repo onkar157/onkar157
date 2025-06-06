@@ -108,15 +108,7 @@
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">Github Stats</h3> <br>
-<p align="center">
-    <a href="https://github.com/onkar157/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Onkar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=onkar157&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
 
-<p align="center">
-  <a href="https://github.com/onkar157/github-readme-stats"><img alt="Onkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=onkar157&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
   <br/>
 
   
