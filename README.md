@@ -3,7 +3,7 @@
   <img src="https://github.com/onkar157/onkar157/assets/98203821/c8ee7197-e947-43b8-8f95-59f2859877e4" alt="Name">
 </div>
 
-`Digital Craftsman (Developer/Filmmaker/Creator)`
+`Onkar Kandar (Data Scientist/AI-ML/Gen-AI/Blogger)`
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
