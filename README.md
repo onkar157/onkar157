@@ -4,8 +4,10 @@
 </div>
 
 <div align="center">
-  `(Data Scientist/AI-ML/Gen-AI/Blogger)`
+`(Data Scientist/AI-ML/Gen-AI/Blogger)`
 </div>
+
+![Digital Craftsman](https://img.shields.io/badge/Digital%20Craftsman-Developer%2FFilmmaker%2FCreator-black?style=for-the-badge)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
