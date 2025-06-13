@@ -8,14 +8,16 @@ README_PATH = "README.md"
 START_TAG = "<!-- BLOG-CARDS:START -->"
 END_TAG = "<!-- BLOG-CARDS:END -->"
 
+import re
+
 def extract_image(entry):
-    # Tries to extract image from media content or description
-    if "media_content" in entry:
-        return entry.media_content[0]["url"]
-    match = re.search(r'<img.*?src="(.*?)"', entry.get("description", ""))
+    # Extract image URL from description HTML
+    description = entry.get("description", "")
+    match = re.search(r'<img[^>]+src="([^">]+)"', description)
     if match:
         return match.group(1)
     return None
+
 
 def get_blog_posts():
     feed = feedparser.parse(RSS_FEED_URL)
@@ -29,13 +31,22 @@ def get_blog_posts():
     return posts
 
 def format_as_markdown(posts):
-    markdown = ""
+    markdown = '<div align="center">\n\n'
     for title, link, date, image in posts:
         if image:
-            markdown += f"- ![{title}]({image})\n  [**{title}**]({link})  \n  🗓️ {date}\n\n"
+            markdown += f'''<a href="{link}" target="_blank">
+  <img src="{image}" width="300" style="margin:10px;" alt="{title}"/><br/>
+  <b>{title}</b><br/>
+  <sub>📅 {date}</sub>
+</a>\n\n'''
         else:
-            markdown += f"- [**{title}**]({link})  \n  🗓️ {date}\n\n"
-    return markdown.strip()
+            markdown += f'''<a href="{link}" target="_blank">
+  <b>{title}</b><br/>
+  <sub>📅 {date}</sub>
+</a>\n\n'''
+    markdown += '</div>'
+    return markdown
+
 
 
 
