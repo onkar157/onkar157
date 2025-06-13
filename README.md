@@ -33,8 +33,8 @@
 
 
 <br/>
-<h3 align="left">Hey Folks 👋, I'm Onkar</h1>
-<h4 align="center">I am a data scientist with expertise in machine learning, statistical analysis, and data visualization. I enjoy transforming raw data into actionable insights and solving complex problems through data-driven approaches.
+<h3 align="center">Hey Folks 👋, I'm Onkar</h1>
+<h4 align="left">I am a data scientist with expertise in machine learning, statistical analysis, and data visualization. I enjoy transforming raw data into actionable insights and solving complex problems through data-driven approaches.
 </h4>
 <br/>
 
