@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&pause=1000&color=25F7B0&width=500&lines=Data+Scientist+%7C+Blogger+%7C+AI-ML+%7C+Gen-AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&pause=1000&color=25F7B0&width=500&lines=Data+Scientist+%7C+AI-ML+%7C+Gen-AI+%7C+Blogger" alt="Typing SVG" />
   </a>
 </div>
 
@@ -151,6 +151,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
+
+
   
 ### Spotify Playing 🎧
 
