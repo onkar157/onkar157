@@ -163,39 +163,47 @@
 ## ✨ Latest Blog Posts from [SpaceTales](https://spacetales.in)
 
 <!-- BLOG-CARDS:START -->
-<div align="center">
-
-<a href="https://spacetales.in/women-pioneers-in-space/" target="_blank">
-  <b>Women Pioneers in Space</b><br/>
+<p align="center">
+  <a href="https://spacetales.in/women-pioneers-in-space/" target="_blank">
+    <b>Women Pioneers in Space</b>
+  </a><br/>
   <sub>📅 Mar 07, 2025</sub>
-</a>
+</p>
 
-<a href="https://spacetales.in/the-international-space-station-humanitys-home-among-the-stars/" target="_blank">
-  <b>The International Space Station: Humanity’s Home Among the Stars</b><br/>
+<p align="center">
+  <a href="https://spacetales.in/the-international-space-station-humanitys-home-among-the-stars/" target="_blank">
+    <b>The International Space Station: Humanity’s Home Among the Stars</b>
+  </a><br/>
   <sub>📅 Feb 11, 2025</sub>
-</a>
+</p>
 
-<a href="https://spacetales.in/spacexs-mid-air-catch-a-giant-leap-toward-rocket-reusability/" target="_blank">
-  <b>SpaceX’s Mid-Air Catch: A Giant Leap Toward Rocket Reusability</b><br/>
+<p align="center">
+  <a href="https://spacetales.in/spacexs-mid-air-catch-a-giant-leap-toward-rocket-reusability/" target="_blank">
+    <b>SpaceX’s Mid-Air Catch: A Giant Leap Toward Rocket Reusability</b>
+  </a><br/>
   <sub>📅 Oct 16, 2024</sub>
-</a>
+</p>
 
-<a href="https://spacetales.in/spacexs-polaris-dawn-the-first-private-spacewalk/" target="_blank">
-  <b>SpaceX’s Polaris Dawn: The First Private Spacewalk</b><br/>
+<p align="center">
+  <a href="https://spacetales.in/spacexs-polaris-dawn-the-first-private-spacewalk/" target="_blank">
+    <b>SpaceX’s Polaris Dawn: The First Private Spacewalk</b>
+  </a><br/>
   <sub>📅 Sep 16, 2024</sub>
-</a>
+</p>
 
-<a href="https://spacetales.in/the-dawn-of-the-space-age-the-launch-of-sputnik-1/" target="_blank">
-  <b>The Dawn of the Space Age: The Launch of Sputnik 1</b><br/>
+<p align="center">
+  <a href="https://spacetales.in/the-dawn-of-the-space-age-the-launch-of-sputnik-1/" target="_blank">
+    <b>The Dawn of the Space Age: The Launch of Sputnik 1</b>
+  </a><br/>
   <sub>📅 Sep 03, 2024</sub>
-</a>
+</p>
 
-<a href="https://spacetales.in/sunita-williams-and-barry-wilmore-testing-the-limits-of-spaceflight-on-boeings-starliner/" target="_blank">
-  <b>Sunita Williams and Barry Wilmore: Testing the Limits of Spaceflight on Boeing’s Starliner</b><br/>
+<p align="center">
+  <a href="https://spacetales.in/sunita-williams-and-barry-wilmore-testing-the-limits-of-spaceflight-on-boeings-starliner/" target="_blank">
+    <b>Sunita Williams and Barry Wilmore: Testing the Limits of Spaceflight on Boeing’s Starliner</b>
+  </a><br/>
   <sub>📅 Aug 22, 2024</sub>
-</a>
-
-</div>
+</p>
 <!-- BLOG-CARDS:END -->
 
 🌌 *Stay curious. Keep exploring.*
