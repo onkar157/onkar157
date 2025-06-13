@@ -3,9 +3,8 @@
   <img src="https://github.com/onkar157/onkar157/assets/98203821/c8ee7197-e947-43b8-8f95-59f2859877e4" alt="Name">
 </div>
 
-<div align="center">
+
 `(Data Scientist/AI-ML/Gen-AI/Blogger)`
-</div>
 
 ![Digital Craftsman](https://img.shields.io/badge/Digital%20Craftsman-Developer%2FFilmmaker%2FCreator-black?style=for-the-badge)
 
