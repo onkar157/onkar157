@@ -10,13 +10,23 @@ END_TAG = "<!-- BLOG-CARDS:END -->"
 
 import re
 
+import requests
+from bs4 import BeautifulSoup
+
 def extract_image(entry):
-    # Extract image URL from description HTML
-    description = entry.get("description", "")
-    match = re.search(r'<img[^>]+src="([^">]+)"', description)
-    if match:
-        return match.group(1)
+    # Try fetching Open Graph image from the actual blog URL
+    try:
+        url = entry.get("link", "")
+        response = requests.get(url, timeout=5)
+        soup = BeautifulSoup(response.text, "html.parser")
+        og_image = soup.find("meta", property="og:image")
+        if og_image and og_image.get("content"):
+            return og_image["content"]
+    except Exception as e:
+        print(f"Failed to get image for {entry.get('title', '')}: {e}")
+    
     return None
+
 
 
 def get_blog_posts():
