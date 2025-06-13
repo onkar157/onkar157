@@ -31,9 +31,12 @@ def get_blog_posts():
 def format_as_markdown(posts):
     markdown = ""
     for title, link, date, image in posts:
-        img_md = f"![{title}]({image})\n" if image else ""
-        markdown += f"- {img_md}[**{title}**]({link})  \n  🗓️ {date}\n\n"
+        if image:
+            markdown += f"- ![{title}]({image})\n  [**{title}**]({link})  \n  🗓️ {date}\n\n"
+        else:
+            markdown += f"- [**{title}**]({link})  \n  🗓️ {date}\n\n"
     return markdown.strip()
+
 
 
 def update_readme(posts_md):
