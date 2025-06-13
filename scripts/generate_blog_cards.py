@@ -32,11 +32,9 @@ def format_as_markdown(posts):
     markdown = ""
     for title, link, date, image in posts:
         img_md = f"![{title}]({image})\n" if image else ""
-        markdown += f"- {img_md}[**{title}**]({link})  
-  🗓️ {date}
-
-"
+        markdown += f"- {img_md}[**{title}**]({link})  \n  🗓️ {date}\n\n"
     return markdown.strip()
+
 
 def update_readme(posts_md):
     with open(README_PATH, "r", encoding="utf-8") as f:
