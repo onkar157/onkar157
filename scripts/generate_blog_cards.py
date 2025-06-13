@@ -30,22 +30,31 @@ def get_blog_posts():
         posts.append((title, link, date, image))
     return posts
 
+
 def format_as_markdown(posts):
-    markdown = '<div align="center">\n\n'
+    markdown = ""
     for title, link, date, image in posts:
         if image:
-            markdown += f'''<a href="{link}" target="_blank">
-  <img src="{image}" width="300" style="margin:10px;" alt="{title}"/><br/>
-  <b>{title}</b><br/>
-  <sub>📅 {date}</sub>
-</a>\n\n'''
+            markdown += (
+                f'<p align="center">\n'
+                f'  <a href="{link}" target="_blank">\n'
+                f'    <img src="{image}" width="300" alt="{title}"/><br/>\n'
+                f'    <b>{title}</b>\n'
+                f'  </a><br/>\n'
+                f'  <sub>📅 {date}</sub>\n'
+                f'</p>\n\n'
+            )
         else:
-            markdown += f'''<a href="{link}" target="_blank">
-  <b>{title}</b><br/>
-  <sub>📅 {date}</sub>
-</a>\n\n'''
-    markdown += '</div>'
-    return markdown
+            markdown += (
+                f'<p align="center">\n'
+                f'  <a href="{link}" target="_blank">\n'
+                f'    <b>{title}</b>\n'
+                f'  </a><br/>\n'
+                f'  <sub>📅 {date}</sub>\n'
+                f'</p>\n\n'
+            )
+    return markdown.strip()
+
 
 
 
