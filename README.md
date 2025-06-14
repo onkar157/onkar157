@@ -82,9 +82,9 @@
   <img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white >
   <img src=https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white >
   <img src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white >
-  <img src=https://img.shields.io/badge/Spacy-301037?style=for-the-badge&logo=spacy&logoColor=white >
-  <img src="https://img.shields.io/badge/Gen_AI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <br>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src=https://img.shields.io/badge/Spacy-301037?style=for-the-badge&logo=spacy&logoColor=white > <br>
+<!--   <img src="https://img.shields.io/badge/Gen_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />  -->
+<!--   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> -->
   <img src=https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white >
   <img src="https://img.shields.io/badge/📊%20Matplotlib-3776AB?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-851c1c?style=for-the-badge&logo=PyTorch&logoColor=white" />
