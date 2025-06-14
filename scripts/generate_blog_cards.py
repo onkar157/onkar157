@@ -30,7 +30,7 @@ def generate_blog_cards():
         image_url = extract_image(content)
 
         card_html = (
-            '<td align="center" width="33%" style="padding: 10px;">'
+            '<td align="center" width="50%" style="padding: 10px;">'
             f'<a href="{link}" target="_blank">'
             f'<img src="{image_url}" alt="{title}" width="250" height="140" style="border-radius:10px;"><br>'
             f'<b>{title}</b>'
@@ -42,10 +42,10 @@ def generate_blog_cards():
         blog_cards += card_html
         count += 1
 
-        if count % 3 == 0 and count != MAX_ITEMS:
+        if count % 2 == 0 and count != MAX_ITEMS:
             blog_cards += "</tr>\n<tr>"
 
-    if count % 3 != 0:
+    if count % 2 != 0:
         blog_cards += "</tr>"
 
     blog_cards += "</table>"
