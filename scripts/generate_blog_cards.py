@@ -35,7 +35,7 @@ def generate_blog_cards():
             f'<img src="{image_url}" alt="{title}" width="250" height="140" style="border-radius:10px;"><br>'
             f'<b>{title}</b>'
             '</a><br>'
-            f'<sub>📅 {pub_date}</sub>'
+            # f'<sub>📅 {pub_date}</sub>'
             '</td>'
         )
 
