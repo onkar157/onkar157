@@ -126,6 +126,62 @@
   <br/>
 
 
+<div align="center">
+  <h3>✨ Latest Blog Posts from <a href="https://spacetales.in">SpaceTales</a></h3>
+</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://spacetales.in/women-pioneers-in-space/" target="_blank">
+        <img src="https://spacetales.in/wp-content/uploads/2025/03/88802229_c0043657-caroline_herschel-spl.jpg.webp" width="250px" style="border-radius:10px;" />
+        <br>
+        <strong>Women Pioneers in Space</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://spacetales.in/the-international-space-station-humanitys-home-among-the-stars/" target="_blank">
+        <img src="https://spacetales.in/wp-content/uploads/2025/02/International-Space-Station-in-2021.webp" width="250px" style="border-radius:10px;" />
+        <br>
+        <strong>International Space Station</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://spacetales.in/spacexs-mid-air-catch-a-giant-leap-toward-rocket-reusability/" target="_blank">
+        <img src="https://spacetales.in/wp-content/uploads/2024/10/GZom5k0aoAA9F04-1536x864.jpg" width="250px" style="border-radius:10px;" />
+        <br>
+        <strong>SpaceX's Mid Air-Catch</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://spacetales.in/spacexs-polaris-dawn-the-first-private-spacewalk/" target="_blank">
+        <img src="https://spacetales.in/wp-content/uploads/2024/09/polarisccrew-1536x864.jpg" width="250px" style="border-radius:10px;" />
+        <br>
+        <strong>SpaceX's Polaris Dawn</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://spacetales.in/sunita-williams-and-barry-wilmore-testing-the-limits-of-spaceflight-on-boeings-starliner/" target="_blank">
+        <img src="https://spacetales.in/wp-content/uploads/2024/08/gettyimages-2155551243.webp" width="250px" style="border-radius:10px;" />
+        <br>
+        <strong>Sunita Williams and Barry Wilmore</strong>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://spacetales.in/women-pioneers-in-space/" target="_blank">
+        <img src="https://spacetales.in/wp-content/uploads/2024/10/GZom5k0aoAA9F04-1536x864.jpg" width="250px" style="border-radius:10px;" />
+        <br>
+        <strong>Women Pioneers in Space</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 <div align="center"
