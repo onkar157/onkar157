@@ -76,42 +76,44 @@
 
 <div align="center">
   <img src=https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=white >
-  <img src=https://img.shields.io/badge/MySql-0e2f44?style=for-the-badge&logo=mysql&logoColor=white >
-  <img src=https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white >
-  <img src=https://img.shields.io/badge/Seaborn-777BB4?style=for-the-badge&logo=seaborn&logoColor=white >
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-cc3333?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white >
   <img src=https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white >
   <img src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white >
-<!--   <img src=https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white >  -->
-  <img src=https://img.shields.io/badge/Spacy-301037?style=for-the-badge&logo=spacy&logoColor=white > <br>
-  <img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white >
+  <img src=https://img.shields.io/badge/Spacy-301037?style=for-the-badge&logo=spacy&logoColor=white >
+  <img src="https://img.shields.io/badge/Gen_AI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src=https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white >
-  <img src=https://img.shields.io/badge/Matplotlib-783f04?style=for-the-badge&logo=Matplotlib&logoColor=black >
-  <img src=https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white >
+  <img src="https://img.shields.io/badge/📊%20Matplotlib-3776AB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-851c1c?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src=https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white >
   <img src=https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white >
+  <img src="https://img.shields.io/badge/Pydantic-0A192F?style=for-the-badge&logo=pydantic&logoColor=white" />
   <img src=https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white > <br>
+  <img src=https://img.shields.io/badge/Aws_sagemaker-a100ff?style=for-the-badge&logo=Aws&logoColor=black >
   <img src=https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black >
   <img src=https://img.shields.io/badge/Tableau-ece6ff?style=for-the-badge&logo=tableau&logoColor=black >
-  <img src=https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white >
-  <img src=https://img.shields.io/badge/github-663333?style=for-the-badge&logo=github&logoColor=white >
-  <img src=https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white >
-  <img src=https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white > <br>
-  <img src=https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white >
-  <img src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white >
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src=https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white >
+  <img src="https://img.shields.io/badge/GitLab-597168?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/LangChain-2B2D42?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src=https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white >
   <img src=https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white >
-  <img src=https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white > <br>
-  <img src=https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white >
-  <img src=https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi >
-  <img src=https://img.shields.io/badge/Canva-001f54?style=for-the-badge&logo=Canva&logoColor=white >
-  <img src=https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white > <br>
-  <img src=https://img.shields.io/badge/Selenium-5c2641?style=for-the-badge&logo=selinium&logoColor=white >
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src=https://img.shields.io/badge/BeautifulSoup-ff1493?style=for-the-badge&logo=beautifulsoup&logoColor=white > 
-  <img src=https://img.shields.io/badge/Request-303843?style=for-the-badge&logo=request&logoColor=white > <br>
+  <img src=https://img.shields.io/badge/Request-0052CC?style=for-the-badge&logo=request&logoColor=white > <br>
   <img src=https://img.shields.io/badge/Scrapy-663333?style=for-the-badge&logo=scrapy&logoColor=white >
-  <img src=https://img.shields.io/badge/Anaconda-783f04?style=for-the-badge&logo=anaconda&logoColor=white > <br>
-  <img src=https://img.shields.io/badge/Gitlab-e66633?style=for-the-badge&logo=gitlab&logoColor=white >
+  <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/Agile-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
 
