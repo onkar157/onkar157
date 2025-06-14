@@ -116,19 +116,7 @@
   <img src="https://img.shields.io/badge/Agile-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
-
-
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-  <br/>
-
-  
-  
-  <br/>
-
-
-
+<br>
 <div align="center"
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -140,7 +128,9 @@
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+<br>
+
 <div align="center">
   
 ### ✍️ Random Dev Quote
@@ -149,12 +139,11 @@
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <div align="center">
 
-
-  
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/6hCRurmcJcOY7KUUDcBHrU?si=c334e4a852bb4b68)
@@ -162,11 +151,14 @@
 </div>
 <br>
 
+---
+
+<br>
 <div align="center">
   <h3>✨ My Latest Blogs
 </div>
 
-
+<br>
 
 <table>
   <tr>
@@ -219,6 +211,8 @@
     </td>
   </tr>
 </table>
+
+<br>
 
 ![Digital Craftsman](https://img.shields.io/badge/Blog%20Website-Spacetales.in%2F-black?style=for-the-badge)
 
