@@ -164,7 +164,7 @@
   <h3>✨ My Latest Blogs
 </div>
 
-![Digital Craftsman](https://img.shields.io/badge/Blog%20Website-Spacetales.in%2F-black?style=for-the-badge)
+
 
 <table>
   <tr>
