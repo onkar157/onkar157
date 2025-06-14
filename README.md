@@ -131,24 +131,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 <br>
 
-<div align="center">
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>✍️ Random Dev Quote</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    </td>
+    <td align="center">
+      <h3>🎧 Spotify Playing</h3>
+      <a href="https://open.spotify.com/track/6hCRurmcJcOY7KUUDcBHrU?si=c334e4a852bb4b68" target="_blank">
+        <img src="https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-</div>
 
-<br>
-
-
-
-<div align="center">
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/6hCRurmcJcOY7KUUDcBHrU?si=c334e4a852bb4b68)
-
-</div>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
