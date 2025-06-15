@@ -225,7 +225,7 @@
   <a href="https://linkedin.com/in/onkar-kandar-29a8a31ba" target="_blank">
     <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/@stelliferous_onkki" target="_blank">
+  <a href="https://www.instagram.com/stelliferous_onkki/profilecard/?igsh=cGw0ZWhrNzdrZm83" target="_blank">
     <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/inst.png" width="40" alt="Instagram"/>
   </a>
   <a href="https://twitter.com/Onkarkandar" target="_blank">
