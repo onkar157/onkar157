@@ -223,7 +223,7 @@
 
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pompiere&size=25&pause=1000&color=25F7B0&width=550&lines=Grateful+to+have+you+in+my+orbit%2C+Thanks+for+exploring+my+space+!+🪐)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pompiere&size=30&pause=1000&color=25F7B0&width=620&lines=Grateful+to+have+you+in+my+orbit%2C+Thanks+for+exploring+my+space+!+🪐)](https://git.io/typing-svg)
 
 </div>
 
