@@ -41,24 +41,26 @@
 
 
 <br/>
-<h3 align="center">Hey Folks 👋, I'm Onkar</h1>
-<h4 align="left">I am a data scientist with expertise in machine learning, statistical analysis, and data visualization. I enjoy transforming raw data into actionable insights and solving complex problems through data-driven approaches.
-</h4>
+<h3 align="center">About Me !</h1>
+<!-- <h4 align="left">I am a data scientist with expertise in machine learning, statistical analysis, and data visualization. I enjoy transforming raw data into actionable insights and solving complex problems through data-driven approaches.
+</h4> -->
+
+
+
+
+
+
+
 <br/>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/gpxL2iwzrTcAAAAi/computer-guy-confused.gif"> 
 
+<p align="left">
+  <samp>
+    I'm Onkar — a data scientist working at the intersection of machine learning, statistical analysis, and generative AI. I build scalable tools and intelligent systems that turn data into actionable insights. With hands-on experience in Python, Scikit-learn, TensorFlow, and PyTorch, I develop models that solve real problems. I work extensively with Pandas and NumPy for data manipulation and use Matplotlib, Seaborn, Plotly, and Tableau to create meaningful visualizations.<br><br>
+    Beyond data, I enjoy working on modern web technologies and contributing to open source projects. I’m also deeply passionate about space and astronomy, often combining that curiosity with astrophotography. Whether it's building ML pipelines or exploring the cosmos, I’m always learning, building, and creating.
+  </samp>
+</p>
 
-
-### About me:
-<br/>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"> 
-
--   Experienced in developing predictive models using Python, Scikit-learn, TensorFlow, and PyTorch.
-
--   Skilled in using Pandas, NumPy for data manipulation and analysis.
-
--   Proficient in creating visualizations with Matplotlib, Seaborn, Plotly, and Tableau.
-
--   I am deeply passionate about exploring the cosmos through both astronomy and astrophotography.
 
   
 
