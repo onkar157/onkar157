@@ -214,6 +214,11 @@
 
 ![Digital Craftsman](https://img.shields.io/badge/Blog%20Website-Spacetales.in%2F-black?style=for-the-badge)
 
+<div align="center">
+
+<img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
 
 ![Onkar Kandar](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
