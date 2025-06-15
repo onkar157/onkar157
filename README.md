@@ -218,10 +218,15 @@
 
 ![Digital Craftsman](https://img.shields.io/badge/Blog%20Website-Spacetales.in%2F-black?style=for-the-badge)
 
+<br>
+
+
 <div align="center">
 
-<img height="120" alt="Thanks for visiting" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pompiere&size=25&pause=1000&color=25F7B0&width=550&lines=Grateful+to+have+you+in+my+orbit%2C+Thanks+for+exploring+my+space+!+🪐)](https://git.io/typing-svg)
+
+</div>
+
 
 
 ![Onkar Kandar](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
