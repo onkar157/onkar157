@@ -67,9 +67,6 @@
   <a href="https://linktr.ee/onkarkandar/" target="_blank">
     <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/hary.png" width="40" alt="Linktree"/>
   </a>
-  <a href="https://spacetales.in/" target="_blank">
-    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/wwee.png" width="40" alt="Blog"/>
-  </a>
 </p>
 
 <br/>
@@ -212,7 +209,11 @@
 <br>
 
 
-
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pompiere&size=36&pause=1000&color=25F7B0&width=750&height=70&lines=Grateful+to+have+you+in+my+orbit%2C+Thanks+for+exploring+my+space+!+🪐" alt="Typing SVG" />
+  </a>
+</p>
 
 
 
