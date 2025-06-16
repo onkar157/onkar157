@@ -70,8 +70,31 @@
 
 </div>  
 
+<p align="center">
+  <a href="https://onkarkandar.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/lintee.png" width="40" alt="Portfolio"/>
+  </a>
+  <a href="mailto:onkarkandar157@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/mailg.png" width="40" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/onkar-kandar-29a8a31ba" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/stelliferous_onkki/profilecard/?igsh=cGw0ZWhrNzdrZm83" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/inst.png" width="40" alt="Instagram"/>
+  </a>
+  <a href="https://twitter.com/Onkarkandar" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/twit.png" width="40" alt="Twitter"/>
+  </a>
+  <a href="https://linktr.ee/onkarkandar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/hary.png" width="40" alt="Linktree"/>
+  </a>
+  <a href="https://spacetales.in/" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/wwee.png" width="40" alt="Blog"/>
+  </a>
+</p>
+
 <br/>
-<br>
 
 
 
