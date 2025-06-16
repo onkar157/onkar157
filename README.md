@@ -200,10 +200,10 @@
       </a>
     </td>
     <td align="center" width="33%">
-      <a href="https://spacetales.in/women-pioneers-in-space/" target="_blank">
-        <img src="https://spacetales.in/wp-content/uploads/2024/10/GZom5k0aoAA9F04-1536x864.jpg" width="250px" style="border-radius:10px;" />
+      <a href="https://spacetales.in/aristotle-to-astronauts-the-evolution-of-our-cosmic-understanding/" target="_blank">
+        <img src="https://spacetales.in/wp-content/uploads/2024/08/Galileo.webp" width="250px" style="border-radius:10px;" />
         <br>
-        <strong>Women Pioneers in Space</strong>
+        <strong>Aristotle to Astronauts</strong>
       </a>
     </td>
   </tr>
