@@ -46,6 +46,8 @@
 
 </div>  
 
+<br>
+
 <p align="center">
   <a href="https://onkarkandar.netlify.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/lintee.png" width="40" alt="Portfolio"/>
