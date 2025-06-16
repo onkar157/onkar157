@@ -220,6 +220,13 @@
 
 </div>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pompiere&size=36&pause=1000&color=25F7B0&width=700&height=70&lines=Grateful+to+have+you+in+my+orbit%2C+Thanks+for+exploring+my+space+!" alt="Typing SVG" />
+  </a>
+</p>
+
+
 
 
 ![Onkar Kandar](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
