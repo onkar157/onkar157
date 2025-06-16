@@ -89,8 +89,7 @@
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src=https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white >
   <img src=https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white >
-  <img src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white >
-  <img src=https://img.shields.io/badge/Spacy-301037?style=for-the-badge&logo=spacy&logoColor=white > <br>
+  <img src=https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white > <br>
 <!--   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> -->
   <img src=https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white >
   <img src="https://img.shields.io/badge/📊%20Matplotlib-3776AB?style=for-the-badge&logoColor=white" />
@@ -118,7 +117,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" /> <br>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src=https://img.shields.io/badge/BeautifulSoup-ff1493?style=for-the-badge&logo=beautifulsoup&logoColor=white > 
-  <img src=https://img.shields.io/badge/Request-0052CC?style=for-the-badge&logo=request&logoColor=white > <br>
+  <img src=https://img.shields.io/badge/Request-0052CC?style=for-the-badge&logo=request&logoColor=white >
+  <img src=https://img.shields.io/badge/Spacy-301037?style=for-the-badge&logo=spacy&logoColor=white > <br>
   <img src=https://img.shields.io/badge/Scrapy-663333?style=for-the-badge&logo=scrapy&logoColor=white >
   <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white" /> <br>
   <img src="https://img.shields.io/badge/Agile-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
