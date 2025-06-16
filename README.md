@@ -13,29 +13,29 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
-<div id="badges" align = "center">
-  <a href="https://linkedin.com/in/onkar-kandar-29a8a31ba">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://onkarkandar.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/lintee.png" width="40" alt="Portfolio"/>
   </a>
-  <a href="https://twitter.com/Onkarkandar">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  <a href="mailto:onkarkandar157@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/mailg.png" width="40" alt="Gmail"/>
   </a>
-  <a href="https://linktr.ee/onkarkandar/">
-    <img src="https://img.shields.io/badge/linktree-04444e?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree"/>
+  <a href="https://linkedin.com/in/onkar-kandar-29a8a31ba" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://www.instagram.com/stelliferous_onkki/profilecard/?igsh=cGw0ZWhrNzdrZm83" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/inst.png" width="40" alt="Instagram"/>
   </a>
-  <a href="https://instagram.com/@stelliferous_onkki">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Gmail"/>
+  <a href="https://twitter.com/Onkarkandar" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/twit.png" width="40" alt="Twitter"/>
   </a>
-  
-
-  <a href="https://onkarkandar.netlify.app/">
-    <img src="https://img.shields.io/badge/portfolio-c67c29?style=for-the-badge&logo=world" alt="portfolio Badge"/>
+  <a href="https://linktr.ee/onkarkandar/" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/hary.png" width="40" alt="Linktree"/>
   </a>
-  
-</div>
+  <a href="https://spacetales.in/" target="_blank">
+    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/wwee.png" width="40" alt="Blog"/>
+  </a>
+</p>
 
 
 
@@ -236,9 +236,6 @@
   </a>
   <a href="https://spacetales.in/" target="_blank">
     <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/wwee.png" width="40" alt="Blog"/>
-  </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/onkar157/onkar157/main/assets/portee.png" width="40" alt="Gmail"/>
   </a>
 </p>
 
