@@ -17,7 +17,7 @@
 
 
 <br/>
-<h3 align="center">About Me !</h1>
+<h3 align="center">👨‍🚀 About Me !</h1>
 <!-- <h4 align="left">I am a data scientist with expertise in machine learning, statistical analysis, and data visualization. I enjoy transforming raw data into actionable insights and solving complex problems through data-driven approaches.
 </h4> -->
 
@@ -77,9 +77,10 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center"> 
   
-### Tech Stack
+### 📎Tech Stack !
 </div>
 
 <div align="center">
@@ -131,13 +132,18 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
-<br>
 
 
 
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+
+<div align="center">
+
+### 🎧 Spotify Playing !
+
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/6hCRurmcJcOY7KUUDcBHrU?si=c334e4a852bb4b68)
+
 </div>
 
 <br>
@@ -146,7 +152,7 @@
 
 <br>
 <div align="center">
-  <h3>✨ My Latest Blogs
+  <h3>✨ My Latest Blogs !
 </div>
 
 <br>
